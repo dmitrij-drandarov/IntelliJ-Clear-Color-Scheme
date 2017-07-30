@@ -1,0 +1,4 @@
+= IntelliJ Clear Color Scheme
+:imagesdir: img
+
+image:dark.png[title="Dark"]
