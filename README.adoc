@@ -1,5 +1,8 @@
 = IntelliJ Clear Color Scheme
-:imagesdir: img
+:imagesdir: images
 
 == Darcula
 image:dark.png[title="Dark"]
+
+== IntelliJ
+image:light.png[title="Light"]

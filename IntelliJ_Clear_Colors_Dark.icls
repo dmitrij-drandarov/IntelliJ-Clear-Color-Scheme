@@ -12,7 +12,7 @@
   <attributes>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="53a966" />
+        <option name="FOREGROUND" value="33b36a" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -22,7 +22,17 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="53a966" />
+        <option name="FOREGROUND" value="33b36a" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="818fe6" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="9db76b" />
       </value>
     </option>
     <option name="TEXT">
